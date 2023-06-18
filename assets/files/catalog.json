@@ -1,0 +1,52 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "iphone 12 pro",
+      "desc": "ek no phn",
+      "price": 1299,
+      "color": "#33505a",
+      "image": "https://cdn.shopify.com/s/files/1/0245/9382/5867/products/apple-mobile-phones-apple-iphone-12-pro-256gb-imported-1-year-international-warranty-16090480640075_800x.jpg?v=1647757702"
+    },
+    {
+      "id": 2,
+      "name":"iphone 12",
+      "desc": "apple ",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G201782_View_1/mobiles/smartphones/apple-iphone-12-128-gb-black-4-gb-ram-.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iphone 13",
+      "desc": "apple ka phone",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._SX679_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iphone 13 pro",
+      "desc": "apple ka phone",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://m.media-amazon.com/images/I/617FFRO3vcL._SX679_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "iphone 14 pro ",
+      "desc": "apple ka phone",
+      "price": 1499,
+      "color": "#33505a",
+      "image": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX679_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ipad air",
+      "desc": "apple ka phone",
+      "price": 799,
+      "color": "#33505a",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666333362/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/264220_kfyre4.png/mxw_2256,f_auto"
+    }
+  ]
+}
